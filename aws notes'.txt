@@ -1,0 +1,13 @@
+- IAM console/ API access(inside security)
+- IAM last activity
+- Security groups to EC2
+- Load balancer
+- Cloudfront
+
+
+Planning
+
+- add buffer for domain verification in SES
+- add buffer for cloudfront
+- Include backup plan in audit document
+- Include s3 static website in audit document
